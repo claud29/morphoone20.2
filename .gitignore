@@ -1,6 +1,7 @@
 *.cnf
 
 *.~lock*.odt#
+*.~lock*.docx#
 
 wcorp-py27-ve/
 wcorp-py3-ve/
