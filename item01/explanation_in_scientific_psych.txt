@@ -1,0 +1,40 @@
+1. The citation on top of page 4, by PB Medawar, suggests that all 'scientists' understand what the scientific method is.
+
+2. The difference between the curiosity of a researcher and that of a lay person is that the researcher is less willing to tolerate unanswered questions and/or problems in the theory.
+
+3. Skepticism is the belief that all knowledge is questionable except that which is obtained empirically in a laboratory (or through some kind of controlled observation).
+
+4. Being skeptic and conscious of the fact that scientific knowledge is self-correcting, a researcher must change his mind when the outcome of an experiment counters a belief of his/hers.
+
+5. Theory (in psychology) performs two major functions. As a convenient way to ----(organize)---- data. And as ways to allow a researcher to generate ----(predictions)----. (pg 8)
+
+6. At the time of Galileo, science was based upon the teachings of Aristotle: the Earth was the center of the universe.  All heavenly bodies, including the moon, were perfect spheres that moved around the Earth. The Earth was the only source of imperfection in the universe. The dark spots on the moon that are visible to the naked eye were explained away as parts of the moon that absorbed and emitted light differently than other parts -- the surface itself was perfectly smooth. in November 1609 Galileo pointed his telescope with 20x magnification to the moon for the first time to start studying it in depth. He concluded that the dark spots are shadows cast by mountains and valleys as the sun falls on them. As the moon's position relative to the sun changes, the shapes and intensities of these shadows change. Galileo's conclusion was a shocking one-- the moon is not a perfect sphere. (adap
+
+Given that description, was Galileo's process of reasoning inductive or deductive?
+
+7  A bacterial culture was left near an open window in a London laboratory, and mold spores landed in the petri dish where the bacterial culture was, inhibiting the growth of the bacteria. Alexander Fleming noticed this phenomenon, cultured the mold, and thus discovered penicillin. A team of reserchers in pharmaceuticals wanted to test if penicillin is effective in treating bacterial infections. They conduct an experiment based on randomized-control trials (RCT). A random group of patients of scarlet fever (a bacterial infection) is chosen. Group A is given penicillin. Group B is given a standard treatment. Group A has a higher percentage of recoveries. The reasearch team conclude for the efectivennes of penicillin.
+
+Given that description, was the research team's process of reasoning inductive or deductive?  
+
+8.Hypotheses are testable. 
+  Hypotheses are not testable.
+  Generalizations are testable.
+  Generalizations are not testable.
+  Hypotheses come from generalizations.
+  Generalizations come from hypotheses.
+  Generalizations may come from a theory or from direct observation. 
+
+9 which of these are criteria for evaluating theories?
+
+deduction
+description
+explanation
+induction
+parsimony
+precision
+self-correcting
+tenacity
+testability
+
+At the time of Galileo, science was based upon the teachings of Aristotle: the Earth was the center of the universe.  All heavenly bodies, including the moon, were perfect smooth spheres that moved around the Earth. The Earth was the only source of imperfection in the universe. The dark spots on the moon that are visible to the naked eye were explained away as parts of the moon that absorbed and emitted light differently than other parts -- the surface itself was perfectly smooth. in November 1609 Galileo pointed his telescope with 20x magnification to the moon for the first time to start studying it in depth. He concluded that the dark spots are shadows cast by mountains and valleys as the sun falls on them. As the moon's position relative to the sun changes, the shapes and intensities of these shadows change. Galileo's conclusion was a shocking one-- the moon is not a perfect sphere. GIVEN THAT DESCRIPTION, WAS GALILEO'S  PROCESS OF REASONING INDUCTIVE OR DEDUCTIVE?
+
