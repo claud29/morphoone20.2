@@ -1,0 +1,14 @@
+In the following to excerpts there are 8 content clauses. Your tasks:
+
+(1) Identify them.
+(2) Indentify the head that selects the clause as a dependent
+(3) Indentify the head of the clause. 
+
+Hint: don't count on them being introduced by the subordinator 'that'
+
+TEXT 1
+The Suez Canal is finally open again after the giant vessel that had blocked it for a week is refloated. The 220,000-ton Ever Given container ship managed to get wedged between both sides of the strategic waterway last week. The subsequent blockage disrupted global trade and international markets. Analysts forecast it has cost Egypt $100 million in lost revenue. The week-long jam means there is a backlog of ships waiting to sail through the canal. More than 450 ships are anchored in the Red Sea or in the Mediterranean near both ends of the canal. Authorities say they will try and double the daily average of 50 ships to pass through the channel to around 90 to 100 vessels.
+
+TEXT 2
+A new study from Stanford University has investigated the effects on our health of extended spells of video-conferencing. Researcher and communications expert Jeremy Bailenson dubbed the phenomenon "Zoom fatigue," but acknowledged the condition is not restricted to just that platform. Mr Bailenson outlined several factors that make video-conferencing so fatigue-inducing. He said it is not just tiredness and eye-strain from staring at a computer screen for hours and hours. It is also brought about by "cognitive overload" and feeling pressure to be perpetually switched on. Bailenson cautioned this leads to burnout and stress and can heighten your chance of developing moderate to severe depression. He said this anxiety can adversely affect your self-confidence. This is because of the large number of faces staring at you in meetings. Bailenson likens this to the stresses of public speaking.
+
